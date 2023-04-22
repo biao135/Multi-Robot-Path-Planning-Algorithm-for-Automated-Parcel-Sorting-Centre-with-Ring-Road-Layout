@@ -1,0 +1,1 @@
+to change the number of robots, go to central system and find an array called spawn spots. Comment or uncomment the elements to remove or add robots.
